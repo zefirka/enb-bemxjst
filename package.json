@@ -29,7 +29,7 @@
     "enb": ">= 0.16.0 < 2.0.0"
   },
   "dependencies": {
-    "bem-xjst": "git+https://github.com/zefirka/bem-xjst.git#dbb88b6d405b1c2bb71353b394a9e95ad095a3a7",
+    "bem-xjst": "git+https://github.com/zefirka/bem-xjst.git#e3d1fbc60282f163ecce7cae039adfbe9f8fcd69",
     "browserify": "13.0.0",
     "clear-require": "1.0.1",
     "enb-async-require": "1.0.1",
